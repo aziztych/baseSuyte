@@ -1,6 +1,14 @@
-b {
-  background-color: black;
+* {
+    margin: 0;
+    padding: 0;
 }
-body {
-  background-image: url("https://code4web.ru/wp-content/uploads/2023/08/image-28.png");
+#header {
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    border-bottom: 2px solid silver;
+    background: #333;
+    color: #fff;
+    line-height: 50px;
+    margin-bottom: 50px;
 }
